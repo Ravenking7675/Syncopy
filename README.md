@@ -57,5 +57,5 @@ Follow the [link](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview "lin
 After you finish installation of Ubuntu shell, you can follow the [Linux instructions](https://github.com/Ravenking7675/Syncopy/blob/master/README.md#desktop-app-installation "Linux instructions") .
 
 ## Source code for Android app and Python desktop app
-[Android app](https://github.com/Ravenking7675/Syncopy-App "Android app")
-[Python desktop app](https://github.com/Ravenking7675/Syncopy-Python "Python desktop app")
+[Android_app](https://github.com/Ravenking7675/Syncopy-App "Android app") & 
+[Python_desktop_app](https://github.com/Ravenking7675/Syncopy-Python "Python desktop app")
