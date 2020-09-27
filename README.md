@@ -1,10 +1,7 @@
-# Syncopé 
- ![Logo](syncopy_logo.png "Logo")
-
+# Syncopé
  Syncopy let you to connect multiple devices together and sync there clipboard.
- 
 
-### You get some advanced features with (Linux) PC conenctions like :
+### You get some advanced features with PC conenctions like :
 
 - Summoning Screenshots from your PC.
 -  Executing remote bash commands from anywhere.
@@ -26,10 +23,10 @@
 #### # syncopy-project-firebase*
 
 ###### Linux screenshot
-![Linux screenshot](Folder1.jpg "Linux screenshot")
+![Linux screenshot](folder_linux.jpg "Linux screenshot")
 
 ###### Windows screenshot
-![Windows screenshot](Folder1.jpg "Linux screenshot")
+![Windows screenshot](folder_windows.jpg "Windows screenshot")
 
 
 > Note : Never delete or rename "syncopy-project-firebase*"
@@ -42,9 +39,9 @@
 ![Terminal  Linux](terminal1.jpg "Terminal  Linux")
 
 #### Windows users : 
-1. Open the extracted folder.
-2. Run `syncope.exe` 
+1. Open a terminal in the extracted folder.
+2. Run `./syncope` 
 
-![Terminal  Windows](terminal1.jpg "Terminal  Linux")
+![Terminal  Windows](windows_terminal.jpg "Terminal  Linux")
 
 ## Wola! You successfully installed Syncopé
