@@ -1,5 +1,6 @@
 # Syncopé
 ![logo](syncopy_logo.png "logo")
+ 
  Syncopy let you to connect multiple devices together and sync there clipboard.
 
 ### You get some advanced features with (Linux) PC conenctions like :
