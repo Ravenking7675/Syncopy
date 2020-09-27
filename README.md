@@ -1,7 +1,7 @@
 # Syncopé
  Syncopy let you to connect multiple devices together and sync there clipboard.
 
-### You get some advanced features with PC conenctions like :
+### You get some advanced features with (Linux) PC conenctions like :
 
 - Summoning Screenshots from your PC.
 -  Executing remote bash commands from anywhere.
