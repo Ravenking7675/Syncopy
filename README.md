@@ -39,8 +39,8 @@
 ![Terminal  Linux](terminal1.jpg "Terminal  Linux")
 
 #### Windows users : 
-1. Open a terminal in the extracted folder.
-2. Run `./syncope` 
+1. Open the extracted folder.
+2. Run `syncope.exe` 
 
 ![Terminal  Windows](windows_terminal.jpg "Terminal  Linux")
 
