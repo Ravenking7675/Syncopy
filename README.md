@@ -8,6 +8,8 @@
 - Open up links in your PC in a click from anywhere. 
 -  Make your PC repeat whatever you say in voice. 
 
+> Currently these features can be accessed only through Linux based OS(s)
+
 ## Desktop app installation
 
 > Syncopé currently support Windows and Linux OS.
@@ -44,4 +46,11 @@
 
 ![Terminal  Windows](windows_terminal.jpg "Terminal  Linux")
 
-## Wola! You successfully installed Syncopé
+### A quick alternative solution for Windows users :
+Follow the [link](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview "link") to install Ubuntu terminal in Windows 10, It's way easier than it looks.
+
+After you finish installation of Ubuntu shell, you can follow the [Linux instructions](https://github.com/Ravenking7675/Syncopy/blob/master/README.md#desktop-app-installation "Linux instructions") .
+
+## Source code for Android app and Python desktop app
+[Android app](https://github.com/Ravenking7675/Syncopy-App "Android app")
+[Python desktop app](https://github.com/Ravenking7675/Syncopy-Python "Python desktop app")
