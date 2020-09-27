@@ -1,7 +1,8 @@
-# Syncopé
+# Syncopé 
+ ![Logo](syncopy_logo.png "Logo")
+
  Syncopy let you to connect multiple devices together and sync there clipboard.
  
- ![Logo](syncopy_logo.png "Logo")
 
 ### You get some advanced features with PC conenctions like :
 
