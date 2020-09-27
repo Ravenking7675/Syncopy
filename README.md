@@ -55,4 +55,6 @@ After you finish installation of Ubuntu shell, you can follow the [Linux instruc
 
 ## Source code for Android app and Python desktop app
 [Android app](https://github.com/Ravenking7675/Syncopy-App "Android app")
+
+
 [Python desktop app](https://github.com/Ravenking7675/Syncopy-Python "Python desktop app")
