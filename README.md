@@ -4,9 +4,8 @@
  Syncopy let you to connect multiple devices together and sync there clipboard.
  
 
-### You get some advanced features with PC conenctions like :
+### You get some advanced features with (Linux) PC conenctions like :
 
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 - Summoning Screenshots from your PC.
 -  Executing remote bash commands from anywhere.
 - Open up links in your PC in a click from anywhere. 
