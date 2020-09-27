@@ -1,16 +1,19 @@
 # Syncopé
 ![logo](syncopy_logo.png "logo")
  
+ 
  Syncopy let you to connect multiple devices together and sync there clipboard.
 
-### You get some advanced features with (Linux) PC conenctions like :
+### You get some advanced features with PC conenctions like :
 
 - Summoning Screenshots from your PC.
 -  Executing remote bash commands from anywhere.
 - Open up links in your PC in a click from anywhere. 
 -  Make your PC repeat whatever you say in voice. 
 
-> Currently these features can be accessed only through Linux based OS(s)
+
+
+> As of now, Windows support only clip syncing, the above features can be accessed only in Linux based OS(s)
 
 ## Desktop app installation
 
@@ -55,6 +58,4 @@ After you finish installation of Ubuntu shell, you can follow the [Linux instruc
 
 ## Source code for Android app and Python desktop app
 [Android app](https://github.com/Ravenking7675/Syncopy-App "Android app")
-
-
 [Python desktop app](https://github.com/Ravenking7675/Syncopy-Python "Python desktop app")
