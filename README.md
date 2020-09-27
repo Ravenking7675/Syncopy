@@ -20,7 +20,7 @@
 
 #### For Linux : [Click here](http://www.mediafire.com/file/g7zpmj93xoubqqe/syncope-linux.zip/file "Linux")
 
-#### For Windows : [Click here](http://www.mediafire.com/file/g7zpmj93xoubqqe/syncope-linux.zip/file "Linux")
+#### For Windows : [Click here](http://www.mediafire.com/file/a2sv5o4qw6npg9a/Syncope-Windows.zip/file "Windows")
 
 ### 2. Extract the .zip file, you will find two file-
 #### # syncope (Linux) or syncope.exe (Windows)
@@ -43,8 +43,8 @@
 ![Terminal  Linux](terminal1.jpg "Terminal  Linux")
 
 #### Windows users : 
-1. Open a terminal in the extracted folder.
-2. Run `./syncope` 
+1. Open the extracted folder.
+2. Run `syncope.exe` 
 
 ![Terminal  Windows](terminal1.jpg "Terminal  Linux")
 
