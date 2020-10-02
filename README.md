@@ -26,7 +26,7 @@
 #### For Windows : [Click here](http://www.mediafire.com/file/a2sv5o4qw6npg9a/Syncope-Windows.zip/file "Windows")
 
 ### 2. Extract the .zip file, you will find one file-
-#### # syncope (Linux) or syncope.exe (Windows)
+#### syncope (Linux) or syncope.exe (Windows)
 
 ###### Linux screenshot
 ![Linux screenshot](folder_linux.jpg "Linux screenshot")
