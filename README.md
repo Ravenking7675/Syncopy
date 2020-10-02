@@ -21,9 +21,9 @@
 
 ###  1. Download the .zip file for your Operating System 
 
-#### For Linux : [Click here](http://www.mediafire.com/file/g7zpmj93xoubqqe/syncope-linux.zip/file "Linux")
+#### For Linux : [Click here](http://www.mediafire.com/file/g7zpmj93xoubqqe/syncope-linux.zip/file "Linux") [34 MB]
 
-#### For Windows : [Click here](http://www.mediafire.com/file/a2sv5o4qw6npg9a/Syncope-Windows.zip/file "Windows")
+#### For Windows : [Click here](http://www.mediafire.com/file/a2sv5o4qw6npg9a/Syncope-Windows.zip/file "Windows") [17 MB]
 
 > Windows users, your OS might consider this app to be a virus. This is an Open Source project, I can assure you that this is not a virus.
 
