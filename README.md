@@ -2,7 +2,7 @@
 ![logo](syncopy_logo.png "logo")
  
  
- Syncopé let you to connect multiple devices together and sync there clipboard.
+ Syncopé lets you connect multiple devices together and sync there clipboard.
 
 ### You get some advanced features with PC conenctions like :
 
@@ -25,7 +25,7 @@
 
 #### For Windows : [Click here](http://www.mediafire.com/file/a2sv5o4qw6npg9a/Syncope-Windows.zip/file "Windows")
 
-### 2. Extract the .zip file, you will find two file-
+### 2. Extract the .zip file, you will find one file-
 #### # syncope (Linux) or syncope.exe (Windows)
 
 ###### Linux screenshot
