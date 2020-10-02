@@ -25,6 +25,8 @@
 
 #### For Windows : [Click here](http://www.mediafire.com/file/a2sv5o4qw6npg9a/Syncope-Windows.zip/file "Windows")
 
+> Windows users, your OS might consider this app to be a virus. This is an Open Source project, I can assure you that this is not a virus.
+
 ### 2. Extract the .zip file, you will find one file-
 #### syncope (Linux) or syncope.exe (Windows)
 
