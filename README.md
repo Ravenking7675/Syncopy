@@ -2,7 +2,7 @@
 ![logo](syncopy_logo.png "logo")
  
  
- Syncopy let you to connect multiple devices together and sync there clipboard.
+ Syncopé lets you connect multiple devices together and sync there clipboard.
 
 ### You get some advanced features with PC conenctions like :
 
@@ -25,9 +25,10 @@
 
 #### For Windows : [Click here](http://www.mediafire.com/file/a2sv5o4qw6npg9a/Syncope-Windows.zip/file "Windows")
 
-### 2. Extract the .zip file, you will find two file-
-#### # syncope (Linux) or syncope.exe (Windows)
-#### # syncopy-project-firebase*
+> Windows users, your OS might consider this app to be a virus. This is an Open Source project, I can assure you that this is not a virus.
+
+### 2. Extract the .zip file, you will find one file-
+#### syncope (Linux) or syncope.exe (Windows)
 
 ###### Linux screenshot
 ![Linux screenshot](folder_linux.jpg "Linux screenshot")
@@ -36,13 +37,13 @@
 ![Windows screenshot](folder_windows.jpg "Windows screenshot")
 
 
-> Note : Never delete or rename "syncopy-project-firebase*"
-
 ### 3. This step will be OS specific
 #### Linux users : 
 1. Open a terminal in the extracted folder.
 2. Run `./syncope` 
 
+>Tip : Copy syncope to any of your $PATH to execute the application from any directory
+ 
 ![Terminal  Linux](terminal1.jpg "Terminal  Linux")
 
 #### Windows users : 
@@ -57,5 +58,5 @@ Follow the [link](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview "lin
 After you finish installation of Ubuntu shell, you can follow the [Linux instructions](https://github.com/Ravenking7675/Syncopy/blob/master/README.md#desktop-app-installation "Linux instructions") .
 
 ## Source code for Android app and Python desktop app
-[Android app](https://github.com/Ravenking7675/Syncopy-App "Android app")
-[Python desktop app](https://github.com/Ravenking7675/Syncopy-Python "Python desktop app")
+[Android_app](https://github.com/Ravenking7675/Syncopy-App "Android app") & 
+[Python_desktop_app](https://github.com/Ravenking7675/Syncopy-Python "Python desktop app")
