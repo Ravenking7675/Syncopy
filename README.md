@@ -27,7 +27,6 @@
 
 ### 2. Extract the .zip file, you will find two file-
 #### # syncope (Linux) or syncope.exe (Windows)
-#### # syncopy-project-firebase*
 
 ###### Linux screenshot
 ![Linux screenshot](folder_linux.jpg "Linux screenshot")
@@ -36,13 +35,13 @@
 ![Windows screenshot](folder_windows.jpg "Windows screenshot")
 
 
-> Note : Never delete or rename "syncopy-project-firebase*"
-
 ### 3. This step will be OS specific
 #### Linux users : 
 1. Open a terminal in the extracted folder.
 2. Run `./syncope` 
 
+>Tip : Copy syncope to any of your $PATH to execute the application from any directory
+ 
 ![Terminal  Linux](terminal1.jpg "Terminal  Linux")
 
 #### Windows users : 
