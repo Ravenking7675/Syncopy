@@ -21,7 +21,7 @@
 
 ###  1. Download the .zip file for your Operating System 
 
-#### For Linux : [Click here](http://www.mediafire.com/file/igv4xkk32nmo1gj/syncope-linux.zip/file "Linux") [34 MB]
+#### For Linux : [Click here](http://www.mediafire.com/file/j7vtliqollikqza/syncope-linux.zip/file "Linux") [34 MB]
 
 #### For Windows : [Click here](http://www.mediafire.com/file/6q4ccih1jpd487a/syncope-windows.rar/file "Windows") [17 MB]
 
@@ -41,6 +41,8 @@
 #### Linux users : 
 1. Open a terminal in the extracted folder.
 2. Run `./syncope` 
+
+> You might have to install crontab before executing this file 
 
 >Tip : Copy syncope to any of your $PATH to execute the application from any directory
  
