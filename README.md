@@ -21,7 +21,7 @@
 
 ###  1. Download the .zip file for your Operating System 
 
-#### For Linux : [Click here](http://www.mediafire.com/file/j7vtliqollikqza/syncope-linux.zip/file "Linux") [34 MB]
+#### For Linux : [Click here](http://www.mediafire.com/file/awx8yls7vj3kbqz/syncope-linux.zip/file "Linux") [34 MB]
 
 #### For Windows : [Click here](http://www.mediafire.com/file/6q4ccih1jpd487a/syncope-windows.rar/file "Windows") [17 MB]
 
