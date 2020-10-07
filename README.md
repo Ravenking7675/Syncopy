@@ -27,7 +27,7 @@
 
 #### For Linux : [Click here](http://www.mediafire.com/file/awx8yls7vj3kbqz/syncope-linux.zip/file "Linux") [34 MB]
 
-#### For Windows : [Click here](http://www.mediafire.com/file/6q4ccih1jpd487a/syncope-windows.rar/file "Windows") [17 MB]
+#### For Windows : [Click here](http://www.mediafire.com/file/dao9zjgy67re1y0/syncope-windows.rar/file "Windows") [17 MB]
 
 > Windows users, your OS might consider this app to be a virus. This is an Open Source project, I can assure you that this is not a virus.
 
