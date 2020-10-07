@@ -15,6 +15,10 @@
 
 > As of now, Windows support only clip syncing, the above features can be accessed only in Linux based OS(s)
 
+## Syncopé Architecture
+![architecture](description.png "plan")
+
+
 ## Desktop app installation
 
 > Syncopé currently support Windows and Linux OS.
